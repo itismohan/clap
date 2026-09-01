@@ -1,4 +1,4 @@
-# CLAP — Customer Lift & Acquisition Platform
+# CLAP — Customer Loyalty & Intelligence Platform
 
 <div align="center">
   <img src="assets/clap.png" width="300" alt="CLAP Logo">
@@ -6,7 +6,7 @@
 
 Enterprise documentation for an **AI personalization and promotional offer engine** built for Fortune 100 (and equivalent) brands.
 
-CLAP helps marketing, growth, and CRM teams **attract customers**, **match the right person to the right offer**, and **promote those offers** across owned and partner channels—with eligibility, [...]
+CLAP helps marketing, growth, and CRM teams **attract customers**, **match the right person to the right offer**, and **promote those offers** across owned and partner channels—with eligibility.
 
 It is **not** a loyalty-catalog product first. Loyalty, referrals, and gamification are optional **offer rails**. It is **not** a credit or identity-bureau product.
 
@@ -16,7 +16,7 @@ Customer + context  →  Personalize & rank offers  →  Promote on channels  �
 
 | Item | Value |
 | --- | --- |
-| Product | CLAP (Customer Lift & Acquisition Platform) |
+| Product | CLAP (Customer Loyalty & Intelligence Platform) |
 | GTM | B2B enterprise SaaS / dedicated tenant per brand portfolio |
 | Primary cloud | AWS |
 | Docs status | v0.1 draft |
