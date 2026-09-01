@@ -1,6 +1,8 @@
 # CLAP — Customer Lift & Acquisition Platform
 
-![CLAP Logo](assets/clap.png)
+<div align="center">
+  <img src="assets/clap.png" width="300" alt="CLAP Logo">
+</div>
 
 Enterprise documentation for an **AI personalization and promotional offer engine** built for Fortune 100 (and equivalent) brands.
 
