@@ -1,0 +1,29 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://clap.example/schemas/events/decision-made.json",
+  "title": "decision.made data",
+  "type": "object",
+  "required": ["tenant_id", "request_id", "placement", "offers"],
+  "properties": {
+    "tenant_id": { "type": "string", "format": "uuid" },
+    "request_id": { "type": "string", "format": "uuid" },
+    "customer_id": { "type": "string" },
+    "anonymous_id": { "type": "string" },
+    "placement": { "type": "string" },
+    "channel": { "type": "string" },
+    "experiment_id": { "type": "string" },
+    "holdout": { "type": "boolean" },
+    "offers": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["offer_id", "rank"],
+        "properties": {
+          "offer_id": { "type": "string", "format": "uuid" },
+          "rank": { "type": "number" },
+          "reasons": { "type": "array", "items": { "type": "string" } }
+        }
+      }
+    }
+  }
+}
