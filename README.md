@@ -1,8 +1,10 @@
 # CLAP — Customer Lift & Acquisition Platform
 
+![CLAP Logo](assets/clap.png)
+
 Enterprise documentation for an **AI personalization and promotional offer engine** built for Fortune 100 (and equivalent) brands.
 
-CLAP helps marketing, growth, and CRM teams **attract customers**, **match the right person to the right offer**, and **promote those offers** across owned and partner channels—with eligibility, budget, consent, and measurable ROI.
+CLAP helps marketing, growth, and CRM teams **attract customers**, **match the right person to the right offer**, and **promote those offers** across owned and partner channels—with eligibility, [...]
 
 It is **not** a loyalty-catalog product first. Loyalty, referrals, and gamification are optional **offer rails**. It is **not** a credit or identity-bureau product.
 
@@ -22,7 +24,7 @@ Customer + context  →  Personalize & rank offers  →  Promote on channels  �
 
 | Audience | Start here |
 | --- | --- |
-| Executive / CMO | [Executive presentation](docs/10-executive/01-executive-presentation.md) · [Business case](docs/01-product/03-business-case.md) · [Success metrics](docs/09-implementation/06-success-metrics.md) |
+| Executive / CMO | [Executive presentation](docs/10-executive/01-executive-presentation.md) · [Business case](docs/01-product/03-business-case.md) · [Success metrics](docs/09-implementation/06-[...]
 | Product | [Vision](docs/01-product/01-product-vision.md) · [PRD](docs/01-product/07-prd.md) · [MVP plan](docs/09-implementation/02-mvp-plan.md) |
 | Architecture | [High-level design](docs/04-architecture/03-high-level-design.md) · [Microservices](docs/04-architecture/01-microservice-architecture.md) |
 | Developers | [OpenAPI](openapi/) · [Event catalog](docs/05-api/01-event-catalog.md) · [Developer portal requirements](docs/02-requirements/01-functional-requirements.md) |
