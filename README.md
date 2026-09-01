@@ -8,7 +8,7 @@ Enterprise documentation for an **AI personalization and promotional offer engin
 
 CLAP helps marketing, growth, and CRM teams **attract customers**, **match the right person to the right offer**, and **promote those offers** across owned and partner channels—with eligibility.
 
-It is **not** a loyalty-catalog product first. Loyalty, referrals, and gamification are optional **offer rails**. It is **not** a credit or identity-bureau product.
+It is **not** a loyalty-catalog product first. Loyalty, referrals, and gamification are optional **offer rails**.
 
 ```
 Customer + context  →  Personalize & rank offers  →  Promote on channels  →  Convert  →  Learn
